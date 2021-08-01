@@ -169,3 +169,10 @@ highest lenght in sky130 node = 150nm
 
 Tapeout means to send our design to the fab after we prepare it with all the additional support we require.
 one should connect silicon wafer with the real world. For that  use I/O pads. Then for any kind of serial connectivity like I2C, UART and other peripherals, use their designs. Memory also has to be incorporated which takes a lot of space. Testing mechanisms should also be added. Taking care of all of this becomes complicated hence, one should choose a driver to enable IP to meet the desired requirements to undergo fabrication process. For this one can use Efabless Caravel SoC template.
+
+# ACKNOWLEDGEMENT
+1)Kunal Ghosh From VSD
+2)Lakshmi Sathi
+3)Mili Anand
+4)Mansi Mohapatra
+
